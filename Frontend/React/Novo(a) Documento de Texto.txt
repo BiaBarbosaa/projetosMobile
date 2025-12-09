@@ -1,0 +1,18 @@
+Criando um projeto react com o Vite
+
+PASSOS:
+
+1. npm create vite@latest vetor
+
+Onde: "npm create vite@latest" é o comando
+vetor é o nome do projeto 
+
+2. escolher o react
+
+3. escolher java script
+
+4. navegar para dentro da pasta criada
+"cd vetor" => cd nomeDoProjeto
+
+5. instalar os pacotes do projeto 
+"npm install"
